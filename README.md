@@ -1,8 +1,10 @@
 # Python-program
 Tik Tak Toe Game Code
 
+
 def sum(a,b,c):
     return a+b+c
+
 
 def printboard(xState,zState):
     zero = 'X' if xState[0] else ('O' if zState[0] else 0)
